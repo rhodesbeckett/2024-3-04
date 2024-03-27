@@ -1,5 +1,4 @@
 
-//better comment
 function toCountry(countrySvg) {
     const titleElement = countrySvg.querySelector('title');
     countrySvg.dataset.country = countrySvg.id;
